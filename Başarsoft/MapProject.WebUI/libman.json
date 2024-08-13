@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "openlayers@9.2.4",
+      "destination": "wwwroot/openlayers/"
+    }
+  ]
+}
